@@ -25,8 +25,8 @@ public class WeatherData : MonoBehaviour {
 	}
 	
 	private IEnumerator GetWeatherInfo()
-	{		
-		
+	{
+		return null;
 	}
 }
 [Serializable]
